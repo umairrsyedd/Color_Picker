@@ -1,0 +1,27 @@
+body{
+    background-color:grey;
+}
+.square{
+    width:30%;
+    background: blue;
+    padding-bottom:30%;
+    float:left;
+    margin:1.5%;
+}
+#container{
+margin:0 auto;
+max-width:600px;
+}
+#stripe{
+    background-color: white;
+    height: 30px;
+    text-align: center;
+}
+
+.selected{
+    background-color: blue;
+}
+.top{
+    text-align: center;
+    background-color: steelblue;
+}
